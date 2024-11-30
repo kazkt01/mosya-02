@@ -4,8 +4,9 @@
 @use "./footer" as *;
 
 //  common ////////////////////////
+
 html {
-  font-size: 100%;
+  font-size: 100%; // この設定でUSERの設定したフォントが反映される。
 }
 body {
   color: #24292e;
