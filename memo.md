@@ -38,3 +38,6 @@ fr とは？　フラクション　（分数という意味）
 .grid-template-rows
 
 .grid-template ← これで一括で指定できる。
+
+解説：
+https://code-jump.com/portfolio1-p2/

@@ -30,7 +30,7 @@
 #works ul {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
+  flex-wrap: wrap; //折り返し
   margin-bottom: 50px;
 }
 #works li {
